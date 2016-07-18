@@ -1,11 +1,8 @@
-bolt, go, react
+# Boilerplate for the BGR stack - BoltDB, Go, and React
 
-client
-  - react
-  - webpack
-  - sass?
+TODO:
 
-server
-  - bolt
-  - users crud
-  - serve assets
+- [ ] Create/read/update/destroy with Bolt
+- [ ] Add a router
+- [ ] Add webpack
+- [ ] Serve assets
